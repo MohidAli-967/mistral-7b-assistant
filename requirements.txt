@@ -1,0 +1,11 @@
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+fastapi
+uvicorn
+pyngrok
+gradio
+torch
